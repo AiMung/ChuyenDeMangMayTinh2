@@ -1,7 +1,15 @@
 # Chuyên đề Mạng máy tính 2 (Advanced Computer Networking) 👨‍💻
 
 [![Networking Academy Badge](https://credly.com)](https://www.credly.com/badges/bb47c25d-46df-43f7-8bcb-2ef3c4c74a41/public_url)
+# Chuyên đề Mạng máy tính 2 (Advanced Computer Networking) 👨‍💻
 
+<div align="left">
+  <a href="https://credly.com" target="_blank">
+    <img src="https://credly.com" width="150" alt="Networking Academy Badge">
+  </a>
+</div>
+
+---
 > Repository này lưu trữ các bài tập thực hành và báo cáo chi tiết cho môn học, tập trung vào quản trị hệ thống, mạng P2P và công nghệ Containerization với Docker.
 
 
